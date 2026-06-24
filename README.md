@@ -154,10 +154,3 @@ mvn spring-boot:run
 
 v1.0.0
 
-***
-
-## Autor
-
-Projeto desenvolvido para prática de API REST com Spring Boot.
-
-
