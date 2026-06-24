@@ -1,8 +1,11 @@
 # 📦 API de Produtos
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)  
-![MapStruct](https://img.shields.io/badge/MapStruct-1.5-orange)  
+
+![MapStruct](https://img.shields.io/badge/MapStruct-1.5-orange) 
+ 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 API REST para gerenciamento de produtos e categorias utilizando Spring Boot.
